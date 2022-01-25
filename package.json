@@ -1,0 +1,23 @@
+{
+  "name": "is-gst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "rm -rf build && tsc --p ."
+  },
+  "keywords": [
+    "is-gst",
+    "How to validate GST in Javascript ",
+    "gst validation regex",
+    "validate GSTIN",
+    "gst validation regex javascript",
+    "gst number format regex",
+    "regular expression for gst number validation",
+    "gstin",
+    "gst number"
+  ],
+  "author": "PranavVS",
+  "license": "MIT"
+}
