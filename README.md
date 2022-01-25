@@ -10,7 +10,7 @@ is-gst is an npm package to validate the GST number format for a GST Number.
 ## Usage
 - Pass the GST number to isGST() Function. Get the Boolean Result.
 ## Installation
-Install the package using npm. \
+Install the package using npm. 
 ```sh
 npm install is-gst
 ```
