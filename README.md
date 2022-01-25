@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) \
 Jai Hind 🇮🇳 \
 ```is-gst``` is an npm package to validate the GST number format for a GST Number.
+> **WARNING**: This package does not checks in GST Database for valid GST or not. 
+
 - Simple Implementation.
 - Easy Usage.
 ---
