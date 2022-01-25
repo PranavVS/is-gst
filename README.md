@@ -2,7 +2,7 @@
 ## Best GST Validator NPM Package.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) \
 Jai Hind 🇮🇳 \
-is-gst is an npm package to validate the GST number format for a GST Number.\
+is-gst is an npm package to validate the GST number format for a GST Number.
 
 - Simple Implementation.
 - Easy Usage.
