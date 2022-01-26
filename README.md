@@ -33,21 +33,6 @@ npm install https://github.com/PranavVS/is-gst.git#main
 
 - Pass the GST number to `isGST()` Function. Get the Boolean result.
 
-#### For JavaScript
-
-```
-let GSTValidator = require("is-gst");
-let isGSTNumber=GSTValidator.isGST(gstNumber);
-```
-
-##### To Use Import:
-
-```
-import { isGST } from "is-gst";
-```
-
-#### For TypeScript
-
 ```
 import { isGST } from "is-gst";
 let isGSTNumber=isGST(gstNumber);
