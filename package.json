@@ -16,7 +16,9 @@
     "gst number format regex",
     "regular expression for gst number validation",
     "gstin",
-    "gst number"
+    "gst number",
+    "gst validator",
+    "gst"
   ],
   "author": "PranavVS",
   "license": "MIT"
