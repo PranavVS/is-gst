@@ -45,3 +45,7 @@ let isGSTNumber=isGST(gstNumber);
 ### MIT
 
 ---
+
+## Errors You may Encounter
+
+Please check in package.json for the `"type": "module" ` . You may encounter error if not specified.
